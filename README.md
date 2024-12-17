@@ -1,5 +1,9 @@
 ## Hi there 👋
+My nom de plume is <B>Frater Acab</B>
 
+I am currently working on <b>Creating a prosperous life</b> utilising the modified Conjuration tech as developed by <b>Rufus Opus!</b>
+
+🌱 I’m currently learning ...  <b>Google Analytics/Github/AI Command Prompts</b>
 <!--
 **Fr-Acab/Fr-Acab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
